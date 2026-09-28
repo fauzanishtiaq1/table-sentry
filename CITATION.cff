@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If Table Sentry is useful in your work, please cite the software and its research basis."
+title: "Table Sentry: deterministic tabular leakage diagnostics"
+type: software
+authors:
+  - family-names: Ishtiaq
+    given-names: Fauzan
+    affiliation: University of Illinois Urbana-Champaign
+version: 0.1.0
+date-released: 2026-09-28
+repository-code: "https://github.com/fauzanishtiaq1/table-sentry"
+license: MIT
+references:
+  - type: article
+    authors:
+      - family-names: Urban
+        given-names: Caterina
+      - family-names: Subotić
+        given-names: Pavle
+      - family-names: Drobnjaković
+        given-names: Filip
+    title: "Static analysis by abstract interpretation against data leakage in machine learning"
+    journal: "Science of Computer Programming"
+    year: 2025
+    volume: 246
+    article-number: 103338
+    doi: "10.1016/j.scico.2025.103338"
